@@ -68,7 +68,7 @@ body{
     padding: 80px 0;
 }
 #hero-section .image-section {
-    background-image: url(https://i.postimg.cc/hj6q6M0r/bg-image.png);
+    background-image: url(../img/header-image.png);
     background-size: cover;
     background-position: center;
     min-height: 68vh;
